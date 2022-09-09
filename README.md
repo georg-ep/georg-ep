@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @georg-ep
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Swift the xcode framework
+Hello
+Im a full-stack web developer
+Specialising in frameworks: Django, Vue/Nuxt
 
 
 
